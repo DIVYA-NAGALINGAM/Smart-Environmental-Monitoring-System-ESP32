@@ -59,5 +59,8 @@ This project is an ESP32-based environmental monitoring system that measures tem
 * Send sensor data to the cloud using Wi-Fi
 * Integrate ThingSpeak for IoT monitoring
 * Add a buzzer for alerts
+* ## Circuit Diagram
+
+![Smart Environmental Monitoring System](smart%20environment%20monitor.png)
 * Add a mobile or web dashboard
 * Store historical temperature and humidity data
